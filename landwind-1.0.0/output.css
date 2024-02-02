@@ -104,6 +104,9 @@ a {
   color: inherit;
   text-decoration: inherit;
 }
+a .hover\:bg-purple-700:hover{
+  text-decoration: underline;
+}
 
 /*
 Add the correct font weight in Edge and Safari.
