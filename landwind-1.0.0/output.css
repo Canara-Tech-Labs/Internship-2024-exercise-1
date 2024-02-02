@@ -686,11 +686,11 @@ input[type="range"]:disabled::-moz-range-thumb {
 }
 
 input[type="range"]::-moz-range-progress {
-  background: #3F83F8;
+  background:brown;
 }
 
 input[type="range"]::-ms-fill-lower {
-  background: #3F83F8;
+  background:brown;
 }
 
 .toggle-bg:after {
