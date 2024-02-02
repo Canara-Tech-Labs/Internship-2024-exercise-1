@@ -1874,6 +1874,7 @@ input:checked + .toggle-bg {
 .hover\:underline:hover {
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
+          color:purple
 }
 
 .focus\:z-10:focus {
