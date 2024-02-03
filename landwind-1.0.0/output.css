@@ -16,7 +16,7 @@
   /* 2 */
   border-style: solid;
   /* 2 */
-  border-color: #E5E7EB;
+  border-color:#E5E7EB;
   /* 2 */
 }
 
@@ -2421,7 +2421,7 @@ input:checked + .toggle-bg {
 
 @media (min-width: 1280px) {
   .xl\:gap-0 {
-    gap: 0px;
+    gap: 2px;
   }
 
   .xl\:gap-16 {
